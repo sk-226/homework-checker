@@ -1,0 +1,10 @@
+answer/*
+!answer/.gitkeep
+hw_file/*
+!hw_file/.gitkeep
+id/*
+!id/.gitkeep
+input/*
+!input/.gitkeep
+output/*
+!output/.gitkeep
